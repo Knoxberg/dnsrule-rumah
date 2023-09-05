@@ -1,0 +1,30 @@
+# [Genshin Launcher (Asia Region)]
+0.0.0.0 abtest-api-data-sg.hoyoverse.com
+0.0.0.0 genshin.hoyoverse.com
+0.0.0.0 hk4e-launcher-static.hoyoverse.com
+0.0.0.0 hk4e-launcher.hoyoverse.com
+0.0.0.0 launcher-webstatic.hoyoverse.com
+0.0.0.0 log-upload-os.hoyoverse.com
+0.0.0.0 minor-api-os.hoyoverse.com
+0.0.0.0 sdk-os-static.hoyoverse.com
+0.0.0.0 sentry.eks.hoyoverse.com
+0.0.0.0 sg-public-api-static.hoyoverse.com
+
+# [Genshin in-game (Asia Region)]
+0.0.0.0 abtest-api-data-sg.hoyoverse.com
+0.0.0.0 autopatchhk.yuanshen.com
+0.0.0.0 dispatchosglobal.yuanshen.com
+0.0.0.0 hk4e-sdk-os-s.hoyoverse.com
+0.0.0.0 hk4e-sdk-os-static.hoyoverse.com
+0.0.0.0 hk4e-sdk-os.hoyoverse.com
+0.0.0.0 osasiadispatch.yuanshen.com
+0.0.0.0 oseurodispatch.yuanshen.com
+0.0.0.0 osusadispatch.yuanshen.com
+0.0.0.0 overseauspider.yuanshen.com
+0.0.0.0 sdk-os-static.hoyoverse.com
+0.0.0.0 sdk.hoyoverse.com
+0.0.0.0 sg-hk4e-api-static.hoyoverse.com
+0.0.0.0 sg-hk4e-api.hoyoverse.com
+0.0.0.0 sg-public-data-api.hoyoverse.com
+0.0.0.0 webstatic.hoyoverse.com
+0.0.0.0 ys-log-upload-os.hoyoverse.com
